@@ -23,5 +23,3 @@ def decode_message(s: str, p: str) -> bool:
             p_index += 1
     
     return s_index == len(s)
-
-        return False
