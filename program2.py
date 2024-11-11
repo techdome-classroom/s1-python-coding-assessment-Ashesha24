@@ -19,5 +19,4 @@ def decode_message(s: str, p: str) -> bool:
                 return False
             s_index += 1
             p_index += 1
-    
     return False
