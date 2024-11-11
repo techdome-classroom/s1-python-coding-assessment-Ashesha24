@@ -1,6 +1,6 @@
 def decode_message( s: str, p: str) -> bool:
 
-def decode_message(s: str, p: str) -> bool:
+
     s_index = 0
     p_index = 0
     
